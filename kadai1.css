@@ -70,7 +70,12 @@ main{
     margin: 50px auto;
   }
 
+  .title{
+    text-align: left;
+  }
+
   .step-box{
+    text-align: center;
     float: none;    
     width: 90%;
     margin-bottom: 20px;
